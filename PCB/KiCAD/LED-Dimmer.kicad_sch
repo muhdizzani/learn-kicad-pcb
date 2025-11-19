@@ -5,7 +5,7 @@
 	(uuid "bb3f714b-8645-4b5d-865a-9f248605b668")
 	(paper "A4")
 	(title_block
-		(title "Learn PCB Design")
+		(title "Learn PCB Design-LED Dimmer")
 		(date "2025-11-19")
 		(rev "1.0.0")
 	)
